@@ -8,7 +8,7 @@ Veri tabanı olarak SQL Server kullanılarak, BusinessLayer, DataAccessLayer, DT
 
 Bu proje, tatil rezervasyonu alanında faaliyet gösteren bir web sitesini temsil etmektedir. Sitede, çeşitli tatil seçeneklerinin listelendiği, kullanıcıların kişisel hesabına ve siteye ait bilgilere erişebildiği ve admin kullanıcısının da site içerisinde CRUD işlemleri gerçekleştirebildiği üç farklı tasarıma sahip bir projedir.
 
-## Aşağıda, proje geliştirme aşamaları sunulmaktadır:
+## Proje Aşamaları:
 
 * Katmanlar oluşturuldu ve projenin genel yapısı belirlendi.
 * Veritabanı işlemleri için Context sınıfı tanımlandı ve migration işlemi gerçekleştirildi.
