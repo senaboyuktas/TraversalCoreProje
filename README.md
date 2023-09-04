@@ -8,38 +8,38 @@ Veri tabanı olarak SQL Server kullanılarak, BusinessLayer, DataAccessLayer, DT
 
 Bu proje, tatil rezervasyonu alanında faaliyet gösteren bir web sitesini temsil etmektedir. Sitede, çeşitli tatil seçeneklerinin listelendiği, kullanıcıların kişisel hesabına ve siteye ait bilgilere erişebildiği ve admin kullanıcısının da site içerisinde CRUD işlemleri gerçekleştirebildiği üç farklı tasarıma sahip bir projedir.
 
-## Aşağıda, proje geliştirme aşamaları sıralı bir şekilde sunulmaktadır:
+## Aşağıda, proje geliştirme aşamaları sunulmaktadır:
 
-1. Katmanlar oluşturuldu ve projenin genel yapısı belirlendi.
-2. Veritabanı işlemleri için Context sınıfı tanımlandı ve migration işlemi gerçekleştirildi.
-3. DataAccesLayer ve BusinessLayer Generic Interface'leri kullanılarak veri erişimi yapıldı.
-4. Repository Design Pattern yaklaşımı kullanılarak veritabanı işlemleri gerçekleştirildi.
-5. Fluent Validation kütüphanesi kullanılarak giriş yapılan verilerin doğruluğu kontrol edildi.
-6. Partial Async ve View Component yapıları kullanılarak performans artırımı sağlandı.
-7. MSSQL veritabanı kullanılarak CRUD işlemleri yapıldı.
-8. Yorumları ait olduğu rotaya göre listeleme ve yaptırma işlemleri gerçekleştirildi.
-9. Identity kullanılarak kullanıcı girişi yapıldı ve kullanıcının profil bilgileri getirildi.
-10. Login ve Register sayfaları oluşturuldu.
-11. Custom Identity Validator işlemleri gerçekleştirildi.
-12. Identity ile kullanıcı profil ve resim bilgisi güncellemesi yapıldı.
-13. Giriş yapmış kullanıcıya ait aktif, onay bekleyen, geçmiş ve yeni rezervasyon sayfaları oluşturuldu.
-14. Include metodu ve Ef bağımlılığının kaldırıldı.
-15. Container dependencies ve startup yapıları refactoring edildi.
-16. 404 not found sayfası oluşturuldu.
-17. Hem dinamik hem de statik excel ve pdf raporları sayfaları oluşturuldu.
-18. Mail gönderme işlemi yapıldı.
-19. Ajax işlemleri yapıldı.
-20. Data Transfer Object (DTO) katmanı oluşturuldu ve AutoMapper kullanılarak veri transferi işlemleri optimize edildi.
-21. Api Projesi ana projede kullanıldı.
-22. Rapid Api Booking üzerinden otel listesi çekildi.
-23. CQRS Design Pattern kullanılarak veri işlemleri ayrıştırıldı.
-34. MediatR kütüphanesi kullanılarak işlemler daha düzenli bir şekilde yapıldı.
-35. Unit Of Work implementasyonu yapıldı ve veritabanı işlemleri daha yönetilebilir hale getirildi.
-36. Api üzerinden ziyaretçi veri seti oluşturuldu.
-37. CrossTab kullanılarak ziyaretçiler için pivot tablosu oluşturuldu.
-38. SignalR kullanılarak grafikte anlık veri görüntüleme yapıldı.
-39. Rol CRUD işlemleri gerçekleştirildi.
-40. Çoklu dil desteği ve şifremi unuttum sayfaları ile kampı tamamladık.
+* Katmanlar oluşturuldu ve projenin genel yapısı belirlendi.
+* Veritabanı işlemleri için Context sınıfı tanımlandı ve migration işlemi gerçekleştirildi.
+* DataAccesLayer ve BusinessLayer Generic Interface'leri kullanılarak veri erişimi yapıldı.
+* Repository Design Pattern yaklaşımı kullanılarak veritabanı işlemleri gerçekleştirildi.
+* Fluent Validation kütüphanesi kullanılarak giriş yapılan verilerin doğruluğu kontrol edildi.
+* Partial Async ve View Component yapıları kullanılarak performans artırımı sağlandı.
+* MSSQL veritabanı kullanılarak CRUD işlemleri yapıldı.
+* Yorumları ait olduğu rotaya göre listeleme ve yaptırma işlemleri gerçekleştirildi.
+* Identity kullanılarak kullanıcı girişi yapıldı ve kullanıcının profil bilgileri getirildi.
+* Login ve Register sayfaları oluşturuldu.
+* Custom Identity Validator işlemleri gerçekleştirildi.
+* Identity ile kullanıcı profil ve resim bilgisi güncellemesi yapıldı.
+* Giriş yapmış kullanıcıya ait aktif, onay bekleyen, geçmiş ve yeni rezervasyon sayfaları oluşturuldu.
+* Include metodu ve Ef bağımlılığının kaldırıldı.
+* Container dependencies ve startup yapıları refactoring edildi.
+* 404 not found sayfası oluşturuldu.
+* Hem dinamik hem de statik excel ve pdf raporları sayfaları oluşturuldu.
+* Mail gönderme işlemi yapıldı.
+* Ajax işlemleri yapıldı.
+* Data Transfer Object (DTO) katmanı oluşturuldu ve AutoMapper kullanılarak veri transferi işlemleri optimize edildi.
+* Api Projesi ana projede kullanıldı.
+* Rapid Api Booking üzerinden otel listesi çekildi.
+* CQRS Design Pattern kullanılarak veri işlemleri ayrıştırıldı.
+* MediatR kütüphanesi kullanılarak işlemler daha düzenli bir şekilde yapıldı.
+* Unit Of Work implementasyonu yapıldı ve veritabanı işlemleri daha yönetilebilir hale getirildi.
+* Api üzerinden ziyaretçi veri seti oluşturuldu.
+* CrossTab kullanılarak ziyaretçiler için pivot tablosu oluşturuldu.
+* SignalR kullanılarak grafikte anlık veri görüntüleme yapıldı.
+* Rol CRUD işlemleri gerçekleştirildi.
+* Çoklu dil desteği ve şifremi unuttum sayfaları ile kampı tamamladık.
 
 ## Proje Görselleri
 
