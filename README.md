@@ -45,31 +45,31 @@ Bu proje, tatil rezervasyonu alanında faaliyet gösteren bir web sitesini temsi
 
 ![Traversal](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/1.jpg)
 
-![Traversal](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/4.jpg)
+![Traversal](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/4.jpg)
 
-![Traversal](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/6.jpg)
+![Traversal](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/6.jpg)
 
-![Member](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/7.jpg)
+![Member](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/7.jpg)
 
-![Member](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/8.jpg)
+![Member](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/8.jpg)
 
-![Member](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/9.jpg)
+![Member](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/9.jpg)
 
-![Member](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/10.jpg)
+![Member](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/10.jpg)
 
-![Member](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/11.jpg)
+![Member](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/11.jpg)
 
-![Member](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/12.jpg)
+![Member](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/12.jpg)
 
-![Admin](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/13.jpg)
+![Admin](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/13.jpg)
 
-![Admin](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/15.jpg)
+![Admin](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/15.jpg)
 
-![Admin](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/16.jpg)
+![Admin](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/16.jpg)
 
-![Admin](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/17.jpg)
+![Admin](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/17.jpg)
 
-![Admin](https://github.com/EfrunEvdi/TraversalCoreProje/blob/master/Proje/18.jpg)
+![Admin](https://github.com/SenaBoyuktas/TraversalCoreProje/blob/master/Proje/18.jpg)
 
 ![APİ](https://user-images.githubusercontent.com/120751470/231780581-9b1927f4-9e4a-4099-b1da-1d7c8dd67e01.png)
 
